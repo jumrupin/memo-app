@@ -24,6 +24,7 @@ export default {
       description: "",
     };
   },
+
   mounted() {
     this.setMemo();
   },
